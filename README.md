@@ -1,1 +1,1 @@
-# Sentiment_Analysis_Nlp_Project
+This project is about classifying tweets based on their sentiment using NLP. The text is cleaned and converted into numerical features using TF-IDF, and a machine learning model is used to predict whether a tweet is positive, negative, neutral, or irrelevant. The goal was to understand how basic NLP techniques work on real-world social media data.
